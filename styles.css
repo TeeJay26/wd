@@ -1,33 +1,20 @@
-
+.one{
+  background-color: #00a8cc;
+}
 body{
-  background-color:#fae7cb;
-  text-align: center;
-  align-items: center;
-border: 0;
-}
-table{
-  padding-left: 40%;
-  background-color:powderblue;
-}
-.ek{ width:400px;
-  height: 200px;
-  image-resolution: snap;
+  margin-top: 0px;
+
 }
 h1{
-  color: grey;
+  margin-top: 0;
 }
-h2{
-  color: grey;
+.two{
+  background-color: grey;
+  width: 200px;
+  height: 200px;
 }
-h3{
-  color: grey;
-}
-hr
-{
-border-style: dotted none none;
-border-color: grey;
-border-width: 5px;
-width:15%}
-img{
-  animation-fill-mode: forwards;
+.three{
+  background-color: brown;
+  width: 200px;
+  height: 200px;
 }
