@@ -1,0 +1,33 @@
+
+body{
+  background-color:#fae7cb;
+  text-align: center;
+  align-items: center;
+border: 0;
+}
+table{
+  padding-left: 40%;
+  background-color:powderblue;
+}
+.ek{ width:400px;
+  height: 200px;
+  image-resolution: snap;
+}
+h1{
+  color: grey;
+}
+h2{
+  color: grey;
+}
+h3{
+  color: grey;
+}
+hr
+{
+border-style: dotted none none;
+border-color: grey;
+border-width: 5px;
+width:15%}
+img{
+  animation-fill-mode: forwards;
+}
